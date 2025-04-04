@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
 ### Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/shopping-cart-app.git
+   git clone https://github.com/seshu362/Ecloto-Design-Assignment
    ```
 2. Navigate to the project folder:
    ```sh
